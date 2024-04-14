@@ -18,11 +18,11 @@
 		<axon.version>4.9.2</axon.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.axonframework</groupId>
-			<artifactId>axon-spring-boot-starter</artifactId>
-			<version>${axon.version}</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.axonframework</groupId>-->
+<!--			<artifactId>axon-spring-boot-starter</artifactId>-->
+<!--			<version>${axon.version}</version>-->
+<!--		</dependency>-->
 	</dependencies>
 
 
